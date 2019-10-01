@@ -108,3 +108,11 @@ body{
 .section{
 	margin-top: 30px;
 }
+.div-contact{
+	display: inline-block;
+	vertical-align: top;
+}
+.google-map{
+	display: inline-block;
+
+}
