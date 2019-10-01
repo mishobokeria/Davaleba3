@@ -1,0 +1,110 @@
+.logo{
+	width: 100px;
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+
+}
+.nav{
+	display: inline-block;
+	font-size: 22px;
+
+}
+.active{
+	color: #EE4036;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 25px;
+}
+body{
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.headline{
+	font-size: 22px;
+	margin-top: 55px;
+}
+.h2{
+	font-size: 22px;
+}.icon{
+	display: inline-block;
+	vertical-align: middle;
+}
+.paragraph-main{
+	display: inline-block;
+	width: 340px;
+	margin-left: 62px;
+}
+.div-icon{
+	display: inline-block;
+	margin-top: 30px;
+	background: #F2F2F2;
+	vertical-align: middle;
+
+}
+.div-icon2{
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 30px;
+	background: #F2F2F2;
+	vertical-align: middle;
+	
+}
+
+.main-image{
+	margin-top: 80px;
+}
+.footer{
+	height: 30px;
+	margin-top: 62px;
+}
+.border{
+	width: 2px;
+	display: inline-block;
+	color: #3D58A6;
+	margin:62px 32px 0 32px;
+	font-size: 40px;
+}
+.blue-box{
+	background-color: #3D58A6;
+	color: white;
+	font-size: 48px;
+	display: inline-block;
+	margin-top: 40px;
+}
+.date{
+	font size: 22px;
+	color: #3D58A6;
+}
+
+/*.newspage{
+	display: inline-block;
+	vertical-align: top;
+
+}
+.news-p{
+	width: 923px;
+	margin-left: 40px;
+	font-size: 16px;
+	display: inline-block;
+	
+}*/
+.div-pic{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 20px; 
+
+}
+.div-p{
+	width: 923px;
+	margin-left: 40px;
+	margin-top: 20px;
+	font-size: 16px;
+	display: inline-block;
+
+
+}
+.section{
+	margin-top: 30px;
+}
