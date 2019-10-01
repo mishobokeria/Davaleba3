@@ -114,8 +114,17 @@ body{
 }
 .google-map{
 	display: inline-block;
+	margin-left: 50px;
 
 }.div-test{
-	margin-top: 30px;
+	margin-top: 30px ;
 	background: #F2F2F2;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+.info{
+	color: #3D58A6;
+}
+.info1{
+	color: #808080;
 }
